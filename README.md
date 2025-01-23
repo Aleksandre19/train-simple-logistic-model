@@ -1,9 +1,12 @@
 # Train Simple Logistic Model
 
-This project demonstrates the implementation of a simple logistic regression model for predicting school admissions based on test scores. The model amies to demonstrate the minimal crusial steps involved in training a machine learning model, including data preprocessing, model architecture, and model evaluation.
+This project demonstrates the implementation of a simple logistic regression model for 
+predicting school admissions based on test scores. 
+The model amies to demonstrate the minimal crusial steps involved in training a machine learning model, 
+including data preprocessing, model architecture, and model evaluation.
 
 ## Dataset
-The dataset used in this project is sourced from [UCLA Academic Technology Services](http://www.ats.ucla.edu/stat/data/binary.csv). It contains student admission records with the following features:
+The dataset used in this project is sourced from [UCLA Academic Technology Services](https://stats.idre.ucla.edu/stat/data/binary.csv). It contains student admission records with the following features:
 - `admit`: Binary variable indicating admission decision (0 = rejected, 1 = admitted)
 - `gre`: Graduate Record Exam scores (ranges from 200 to 800)
 - `gpa`: Grade Point Average (ranges from 0 to 4.0)
